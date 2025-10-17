@@ -18,12 +18,12 @@ Sigue estos pasos para tener el proyecto funcionando en tu máquina local.
 
 1.  **Clona el Repositorio**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
+    git clone git clone https://github.com/Druiz-leon/logica-programacion-js.git
     ```
 
 2.  **Navega al Directorio del Proyecto**
     ```bash
-    cd nombre-del-repositorio
+    cd logica-programacion-js
     ```
 
 3.  **Instala las Dependencias**
